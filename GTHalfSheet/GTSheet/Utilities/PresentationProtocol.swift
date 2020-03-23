@@ -6,7 +6,7 @@
 //
 //
 
-import Foundation
+import UIKit
 
 public protocol HalfSheetPresentingProtocol: class {
     var transitionManager: HalfSheetPresentationManager! { get set }

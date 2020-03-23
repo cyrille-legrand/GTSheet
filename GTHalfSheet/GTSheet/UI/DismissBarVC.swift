@@ -5,7 +5,7 @@
 //  Created by Matt Banach on 10/23/17.
 //
 
-import Foundation
+import UIKit
 
 public class DismissBarVC: UIViewController {
 

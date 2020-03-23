@@ -6,8 +6,7 @@
 //
 //
 
-import Foundation
-import UIKit.UIGestureRecognizerSubclass
+import UIKit
 
 public class VerticalPanGestureRecognizer: UIPanGestureRecognizer {
 

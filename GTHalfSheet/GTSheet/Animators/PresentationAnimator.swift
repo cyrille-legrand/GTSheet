@@ -6,7 +6,7 @@
 //
 //
 
-import Foundation
+import UIKit
 
 class PresentationAnimator: NSObject, UIViewControllerAnimatedTransitioning, AnimatorConvenience {
 
