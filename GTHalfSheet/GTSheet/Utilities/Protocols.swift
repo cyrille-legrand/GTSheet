@@ -27,11 +27,11 @@ public enum DismissMethod {
 }
 
 internal extension Array where Element == DismissMethod {
-    internal var allowSwipe: Bool {
+    var allowSwipe: Bool {
         return contains(.swipe)
     }
 
-    internal var allowTap: Bool {
+    var allowTap: Bool {
         return contains(.tap)
     }
 }
